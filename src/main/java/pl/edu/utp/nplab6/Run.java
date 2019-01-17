@@ -25,4 +25,8 @@ public class Run {
     }
 Run kebab;
 kebab.main();
+
+Run placki;
+placki.main();
+
 }
