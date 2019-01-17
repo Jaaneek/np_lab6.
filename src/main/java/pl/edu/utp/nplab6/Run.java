@@ -23,4 +23,6 @@ public class Run {
         objects.forEach(o -> System.out.println(o));
         
     }
+Run kebab;
+kebab.main();
 }
